@@ -3,21 +3,21 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/next-boilerplate.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/next.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/next-boilerplate.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/next.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/next-boilerplate.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/next.svg">
 
-  <a href="https://github.com/melquisedecfelipe/next-boilerplate/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/next-boilerplate.svg">
+  <a href="https://github.com/melquisedecfelipe/next/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/next.svg">
   </a>
 
-  <a href="https://github.com/melquisedecfelipe/next-boilerplate/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/next-boilerplate.svg">
+  <a href="https://github.com/melquisedecfelipe/next/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/next.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/next-boilerplate.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/next.svg">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ This project was developed with the following technologies:
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
 
 ```bash
-$ npx create-next-app -e https://github.com/melquisedecfelipe/next-boilerplate my-app
+$ npx create-next-app -e https://github.com/melquisedecfelipe/next my-app
 
 # Go into the repository and install dependencies
 $ cd my-app && yarn
@@ -66,7 +66,7 @@ $ yarn dev
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/next-boilerplate/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/next/blob/master/LICENSE) for more information.
 
 ---
 
