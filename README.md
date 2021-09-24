@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="React Avançado" src="./.github/logo.png" />
+  <img alt="Next" src="./.github/logo.png" />
 </h1>
 
 <p align="center">
