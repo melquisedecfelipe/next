@@ -63,7 +63,7 @@ $ yarn dev
 - `test:watch`: runs jest in watch mode
 - `generate`: create a new component structured
 - `storybook`: runs storybook on `localhost:6006`
-- `build-storybook`: create the build version of storybook
+- `storybook:build`: create the build version of storybook
 
 ## :memo: License
 
