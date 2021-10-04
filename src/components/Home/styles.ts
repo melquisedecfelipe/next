@@ -2,10 +2,15 @@ import styled, { css } from 'styled-components'
 
 export const Wrapper = styled.div`
   ${({ theme }) => css`
-    align-items: center;
     display: flex;
+    flex-direction: column;
     gap: ${theme.grid.gutter};
     padding: ${theme.spacings.large};
+
+    @media screen and (min-width: 768px) {
+      align-items: center;
+      flex-direction: row;
+    }
 
     > svg {
       height: auto;
