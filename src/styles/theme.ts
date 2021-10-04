@@ -4,8 +4,8 @@ export default {
     gutter: '16px'
   },
   font: {
-    familyWorkSans:
-      "WorkSans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
+    family:
+      "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
     regular: 400,
     medium: 500,
     semiBold: 600,
