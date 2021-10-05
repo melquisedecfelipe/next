@@ -1,6 +1,10 @@
 import * as S from './styles'
 
-const Home = () => (
+export type HomeProps = {
+  name?: string
+}
+
+const Home = ({ name = 'Next Boilerlate' }: HomeProps) => (
   <S.Wrapper>
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -16,9 +20,9 @@ const Home = () => (
     </svg>
 
     <div>
-      <h1>Next Boilerlate</h1>
+      <h1>{name}</h1>
       <a
-        href="http://github.com/melquisedecfelipe/next"
+        href="https://github.com/melquisedecfelipe/next"
         target="_blank"
         rel="noopener noreferrer"
       >

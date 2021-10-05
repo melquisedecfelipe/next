@@ -1,10 +1,13 @@
-import { Story, Meta } from '@storybook/react/types-6-0'
+import { Meta, Story } from '@storybook/react/types-6-0'
 
-import Home from '.'
+import Home, { HomeProps } from '.'
 
 export default {
   title: 'Home',
-  component: Home
+  component: Home,
+  args: {
+    name: 'Next Boilerlate'
+  }
 } as Meta
 
-export const Default: Story = () => <Home />
+export const Default: Story<HomeProps> = args => <Home {...args} />
