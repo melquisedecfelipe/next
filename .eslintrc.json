@@ -46,6 +46,7 @@
           "module",
           "/pages/",
           "/components/",
+          "/utils/",
           "/styles/",
           "/types/"
         ],
